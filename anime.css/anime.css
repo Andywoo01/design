@@ -1,7 +1,13 @@
+@import
+
 h1{
+    font-family: "Open Sans Regular";
     text-align: center;
     font-size:12px;
     font-weight: 400;
-    a
+}
 
+nav{
+ text-align: right;
+    
 }
