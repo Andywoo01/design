@@ -4,10 +4,15 @@ h1{
     font-family: "Open Sans Regular";
     text-align: center;
     font-size:12px;
-    font-weight: 400;
+    font-weight: 100;
 }
 
 nav{
  text-align: right;
     
+}
+
+block {
+    background-image: url("Rectangle%201.png");
+    text-align: right;
 }
