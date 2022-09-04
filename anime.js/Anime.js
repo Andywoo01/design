@@ -1,5 +1,5 @@
 anime({
-  targets: '.delay-demo .el',
+  targets: 'block',
   translateX: 250,
   delay: 1000
 });
